@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Remote Forensics</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Bienvenido a Android Remote Forensics.   Diseñado por Ing. German Flores</string>
+    <!--<string name="TelegramBotApiToken">5013004214:AAEzKp7iq9g5sry4p0C6o5LvaDmZ6WooQ9c</string>-->
+
+</resources>
